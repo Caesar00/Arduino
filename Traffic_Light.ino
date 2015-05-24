@@ -1,5 +1,4 @@
-// AUTHOR: CHRISTOPHER CANDY, 31704593
-// DATE DUE: 01/11/2013
+// AUTHOR: CHRISTOPHER CANDY
 // This program is designed to implement a traffic light
 // system. This system supports road works, emergency
 // vehicles, pedestrians, temperature changes, light
